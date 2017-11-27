@@ -1,0 +1,26 @@
+{
+  "nativeApps": [
+    {
+      "name": "PocApp",
+      "platforms": [
+        {
+          "name": "ios",
+          "versions": [
+            {
+              "name": "0.0.1",
+              "ernPlatformVersion": "0.10.1",
+              "isReleased": false,
+              "binary": null,
+              "yarnlock": null,
+              "nativeDeps": [],
+              "miniApps": {
+                "container": [],
+                "codePush": []
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
